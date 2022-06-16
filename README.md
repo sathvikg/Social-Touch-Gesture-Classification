@@ -1,1 +1,2 @@
 # Social-Touch-Gesture-Classification
+Social touch gesture recognition has been considered an important topic in touch morphology research, which can realize efficient and real touch human-computer interaction. This project investigates random forest, 2D CNN, and 3D CNN, and an ensemble classifier combines the three models for the social touch gesture recognition on the CoST dataset. What’s more, we compared two different methods to construct input data for CNN. The weighted average ensemble classifier outperformed the other models implemented in this experiment.
